@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Post and Page Aides
+Plugin Name: Post and Page Asides
 Description: This plugin (in conjunction with the Mayflower theme) allows users to add asides to posts and pages.
 Plugin URI: https://github.com/BellevueCollege/post-and-page-asides/
 Author: Bellevue College Information Technology Services
